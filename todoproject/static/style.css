@@ -1,0 +1,17 @@
+.banner{
+      background-color:Teal;
+      width:120%;
+      height:100px;
+      margin-bottom:50px;
+}
+.banner-text{
+      top:3%;
+      left:45%;
+      font-family:Calibri;
+      color:white;
+      position:absolute;
+      transform:transform;
+}
+body{
+      background-color:Gainsboro;
+}
